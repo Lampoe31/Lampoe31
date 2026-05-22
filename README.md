@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=backend+developer+%26+explorer;linux+enjoyer+%2F%2F+WSL+Ubuntu;always+building+something+new;conte%C3%BAdo+variado+no+YouTube;em+busca+de+ser+pol%C3%ADmata." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=backend+developer+%26+explorer;linux+enjoyer+%2F%2F+WSL+Ubuntu;always+building+something+new;conte%C3%BAdo+variado+no+YouTube." />
 
 # `Kauan Felipe`
 ### Backend Dev · ADS Student · Content Creator
