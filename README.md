@@ -18,7 +18,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em desenvolvimento Backend  
 🐧 Linux + WSL Ubuntu  
-🎥 Criador de conteúdo variado — youtube.com/@Lampoio  
+🎥 Criador de conteúdo variado 
 🔭 Explorador de ideias e tecnologias  
 
 <br clear="right"/>
