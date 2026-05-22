@@ -11,9 +11,9 @@
 
 ---
 
-## `> whoami`
+## `Sobre mim :)`
 
-<img align="right" height="200" src="https://media.giphy.com/media/l1J9GIXk9w7OYsd5S/giphy.gif" />
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQzeHp4eGhhbHI1cmNuejhzb3JmMjV0Nzg3bjh3bzBkOG15YmgxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxlnMFrOLVNp6/giphy.gif" />
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em desenvolvimento Backend  
@@ -25,17 +25,6 @@
 
 ---
 
-## `> currently_learning.sh`
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Data Structures](https://img.shields.io/badge/Estrutura%20de%20Dados-7C3AED?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend%20Dev-A855F7?style=flat-square)
-
----
-
 ## `> stack --all`
 
 <div align="center">
@@ -44,10 +33,10 @@
 
 ---
 
-## `> missions.log`
+## `> Planos`
 
-- [x] Evoluir como desenvolvedor Backend
-- [x] Criar projetos reais
+- [ ] Evoluir como desenvolvedor Backend
+- [ ] Criar projetos reais
 - [ ] Dominar estrutura de dados
 - [ ] Melhorar a qualidade dos vídeos
 - [ ] Construir o portfólio completo
@@ -70,14 +59,6 @@
 
 ---
 
-## `> snake.exe`
-
-<div align="center">
-  <img src="https://github.com/Lampoe31/Lampoe31/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 ## `> connect --with-me`
 
 <div align="center">
@@ -92,5 +73,5 @@
 ---
 
 <div align="center">
-<sub><code>// always building, always exploring</code></sub>
+<sub><code>// Obrigado por chegar até aqui  <3 </code></sub>
 </div>
