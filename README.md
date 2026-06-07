@@ -17,8 +17,11 @@
 
 
 🪪 Vendedor | e-commerce
+
 💻 Focado em desenvolvimento Backend  
+
 🐧 Linux + WSL Ubuntu  
+
 🎥 Criador de conteúdo variado 
 
 <br clear="right"/>
