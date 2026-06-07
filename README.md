@@ -15,6 +15,7 @@
 
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgxdjR6NXA4dmFkM2g4NG1yamNoeHg5OGdxOW5jZ3N4Yjg4NzExYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif" />
 
+
 🪪 Vendedor | e-commerce
 💻 Focado em desenvolvimento Backend  
 🐧 Linux + WSL Ubuntu  
