@@ -31,7 +31,7 @@
 ## `> stack --all`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,js,java,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,java,git,github,linux,vscode&theme=dark" />
 </div>
 
 ---
