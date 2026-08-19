@@ -16,11 +16,7 @@
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgxdjR6NXA4dmFkM2g4NG1yamNoeHg5OGdxOW5jZ3N4Yjg4NzExYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif" />
 
 
-🪪 Vendedor | e-commerce
-
-💻 Focado em desenvolvimento Backend  
-
-🐧 Linux + WSL Ubuntu  
+🪪 Analista | E-commerce & Marketplace
 
 🎥 Criador de conteúdo variado 
 
@@ -33,16 +29,6 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,java,git,github,linux,vscode&theme=dark" />
 </div>
-
----
-
-## `> Planos`
-
-- [ ] Evoluir como desenvolvedor Backend
-- [ ] Criar projetos reais
-- [ ] Dominar estrutura de dados
-- [ ] Melhorar a qualidade dos vídeos
-- [ ] Construir o portfólio completo
 
 ---
 
